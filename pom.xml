@@ -151,4 +151,11 @@
         </plugins>
     </build>
 
+   <developers>
+	<developer>
+		<name>Marcelo Cintra></name>
+		<email>cintra.rel@gmail.com</email>
+	</developer>
+  </developers>
+
 </project>
